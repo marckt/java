@@ -25,7 +25,7 @@ public class Xyu { //строчкай_строчка2_реверс
             System.out.println("OK!");
         } catch (IOException e) {
             e.printStackTrace();
-            System.out.println("Error1237");
+            System.out.println("EBANAJA XPEHb");
         }
 
 
